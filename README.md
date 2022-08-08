@@ -10,7 +10,7 @@ In this project, our Web3 researchers discovered total 9 vulnerabilities and pro
 3 of them are high risk vulnerabilities.
 
 ### PentestReport-XX-exchange
-In this project, our consultants discovered total 13 vulnerabilities on Web & Mobile applications, and provided best practice to help customer (cryptocurrency exchange) fixed these vulnerabilities.  3 critical, 1 high risk, 6 medium risk, 3 low risk
+In this project, our security consultants discovered total 13 vulnerabilities on Web & Mobile applications, and provided best practice to help customer (cryptocurrency exchange) fixed these vulnerabilities.  3 critical, 1 high risk, 6 medium risk, 3 low risk
 
 ### Internal Pentest Sample Report
 This is a Red Teaming attack simulation, in this project, our security consultants discovered total 5 vulnerabilities in customer's internel network
@@ -21,7 +21,7 @@ This is a phishing assessment testing, our security consultants used a variety o
 and the test results were analyzed in detail to help customers understand the weak links of employee security awareness
 
 ### DFIR Sample Report
-In this project, our consultants help a Deadbolt Ransomware victim rapid eradicate the threats, recoveryed business, security hardening and recover the encrypted Files.
+In this project, our consultants help a Deadbolt Ransomware victim rapid eradicated the threats, recovered business, security hardened and recovered the encrypted Files.
 
 ============================== Slides ==============================
 
