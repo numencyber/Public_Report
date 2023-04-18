@@ -5,9 +5,6 @@ Feel Feed to reach out to us ***@ sales@numencyber.com*** if you have any questi
 
 ## Report Description
 
-### NFTstar Smart Contract Audit Report
-In this project, our Web3 researchers discovered total 9 vulnerabilities and provided the best practice to help NFTstar fixed them, 
-3 of them are high risk vulnerabilities.
 
 ### PentestReport-XX-exchange
 In this project, our security consultants discovered total 13 vulnerabilities on Web & Mobile applications, and provided best practice to help customer (cryptocurrency exchange) fixed these vulnerabilities.  3 critical, 1 high risk, 6 medium risk, 3 low risk
